@@ -8,6 +8,7 @@ log_cpu_path = D:\log_ck\cpu\cpu.txt
 log_mem_path = D:\log_ck\mem\mem.txt
 log_system_path = D:\log_ck\system\ 
 log_run_path = D:\log_ck\runlog\runlog.txt
+
 finish = bin->
 commands = ipclog 3£¬ipclog 5
 number = 3
